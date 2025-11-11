@@ -1,1 +1,1 @@
-Hosted Landing Page: https://luminous-auto.github.io/HEAUT/Home
+Hosted Landing Page: https://luminous-auto.github.io/HEAUT
